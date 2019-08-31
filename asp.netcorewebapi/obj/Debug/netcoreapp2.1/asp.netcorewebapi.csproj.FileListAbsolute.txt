@@ -1,0 +1,14 @@
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\bin\Debug\netcoreapp2.1\asp.netcorewebapi.deps.json
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\bin\Debug\netcoreapp2.1\asp.netcorewebapi.runtimeconfig.json
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\bin\Debug\netcoreapp2.1\asp.netcorewebapi.runtimeconfig.dev.json
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\bin\Debug\netcoreapp2.1\asp.netcorewebapi.dll
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.csprojAssemblyReference.cache
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.RazorAssemblyInfo.cache
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.RazorAssemblyInfo.cs
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.AssemblyInfoInputs.cache
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.AssemblyInfo.cs
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.RazorTargetAssemblyInfo.cache
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\bin\Debug\netcoreapp2.1\asp.netcorewebapi.pdb
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.dll
+C:\Users\Enes Yılmaz\Documents\GitHub\asp.netcorewebapi\asp.netcorewebapi\obj\Debug\netcoreapp2.1\asp.netcorewebapi.pdb
